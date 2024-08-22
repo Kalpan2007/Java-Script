@@ -8,7 +8,7 @@
 // console.log(a + b)
 
 //q3 3. **Find the Largest Number**  
-//   - Task: Write a function that takes three numbers and returns the largest.  
+//   - Task: Write a function that takes three numbers and returns the largest.
 // let a = 2 
 // let b = 8 
 // let c = 3
