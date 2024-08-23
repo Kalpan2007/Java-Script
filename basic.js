@@ -85,4 +85,4 @@
 
 
 //q11 11. **Sum All Elements in an Array**  
-- Task: Write a function that returns the sum of all numbers in an array
+//- Task: Write a function that returns the sum of all numbers in an array
